@@ -4,5 +4,4 @@
 # HEllo Everybody,
 
 
-         <p>      This is Sumon and I would like to learn knowledge.js ,knowledge.html ,knowledge.css and knowledge.java :D :) 
-               from some intelligent person who is living inside the Planet :) :) </p>
+         <script>      This is Sumon and I would like to interact this javascript code with html but when I put a valid ID to the search menu ,its nothing happend but my servlet is working nice directly in the browser...please write me, what I am actually missing  </script>
